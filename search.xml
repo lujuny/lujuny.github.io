@@ -4,6 +4,77 @@
   
     
     <entry>
+      <title>未命名</title>
+      <link href="/posts/3c47b44b.html"/>
+      <url>/posts/3c47b44b.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="测试1"><a href="#测试1" class="headerlink" title="测试1"></a>测试1</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> cat1 </category>
+          
+          <category> cat2 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hello </tag>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>[object Object]</title>
+      <link href="/posts/824ac3d0.html"/>
+      <url>/posts/824ac3d0.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>[object Object]</title>
+      <link href="/posts/c6fb831a.html"/>
+      <url>/posts/c6fb831a.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>hello hexo！ <em><strong>Start writing</strong></em></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> cat1 </category>
+          
+          <category> cat2 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> Hello </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>C++中的STL常用操作及函数</title>
       <link href="/posts/a3f76817.html"/>
       <url>/posts/a3f76817.html</url>
