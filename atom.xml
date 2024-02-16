@@ -49,7 +49,7 @@
     <link href="https://lujuny.github.io/posts/c6fb831a.html"/>
     <id>https://lujuny.github.io/posts/c6fb831a.html</id>
     <published>2024-02-14T14:37:13.658Z</published>
-    <updated>2024-02-14T15:05:46.692Z</updated>
+    <updated>2024-02-15T05:44:12.536Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>hello hexo！ <em><strong>Start writing</strong></em></p></blockquote>]]></content>
     
@@ -66,23 +66,6 @@
     <category term="hexo" scheme="https://lujuny.github.io/tags/hexo/"/>
     
     <category term="Hello" scheme="https://lujuny.github.io/tags/Hello/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MySQL学习</title>
-    <link href="https://lujuny.github.io/posts/c6fb831a.html"/>
-    <id>https://lujuny.github.io/posts/c6fb831a.html</id>
-    <published>2024-02-14T06:52:33.626Z</published>
-    <updated>2024-02-14T14:36:38.990Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="MySQL学习"><a href="#MySQL学习" class="headerlink" title="MySQL学习"></a>MySQL学习</h1>]]></content>
-    
-    
-    <summary type="html">编写SQL语句</summary>
-    
-    
-    
     
   </entry>
   
@@ -110,11 +93,30 @@
   </entry>
   
   <entry>
+    <title>MySQL学习</title>
+    <link href="https://lujuny.github.io/posts/c6fb831a.html"/>
+    <id>https://lujuny.github.io/posts/c6fb831a.html</id>
+    <published>2024-02-14T06:52:33.626Z</published>
+    <updated>2024-02-16T15:54:20.502Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="MySQL学习"><a href="#MySQL学习" class="headerlink" title="MySQL学习"></a>MySQL学习</h1><h2 id="SQL语言分类"><a href="#SQL语言分类" class="headerlink" title="SQL语言分类"></a>SQL语言分类</h2><ol><li>数据查询语言(DQL)，用以从表中获得数据，确定数据怎样在应用程序中给出。关键字<code>select</code>是DQL(也是所有SQL)用得最多的动词。<ul><li><code>select</code></li><li><code>from</code></li><li><code>where</code></li><li><code>order by</code></li><li><code>having</code></li></ul></li><li>数据操纵语言(DML)，其语句动词包括动词<code>insert</code>、<code>update</code>和<code>delete</code>，它们分别用于添加、修改和删除表中的行。<ul><li><code>insert</code>：添加数据</li><li><code>update</code>：更新数据</li><li><code>delete</code>：删除数据</li></ul></li><li>数据定义语言(DDL)，定义数据库对象语言，其语句包括动词<code>create</code>和<code>drop</code>等。<ul><li><code>create</code>：创建数据库对象</li><li><code>alter</code>：修改数据库对象</li><li><code>drop</code>：删除数据库对象</li></ul></li><li>数据控制语言(DCL)，它的语句通过<code>grant</code>或<code>revoke</code>获得许可，确定用户对数据库对象的访问。<ul><li><code>grant</code>：授予用户某种权限</li><li><code>revoke</code>：回收授予的某种权限</li></ul></li><li>事务控制语言(TCL)，它的语句能确保被DML语句影响的表的所有行及时得到更新。<ul><li><code>commit</code>：提交事务</li><li><code>rollback</code>：回滚事务</li><li><code>savepoint</code>：设置回滚点<blockquote><p><em><strong>注意</strong></em><br>数据操纵语言DML(<code>insert、update、delete</code>)针对表中的数据；<br>而数据定义语言DDL(<code>create、alter、drop</code>)针对数据库对象，比如数据库database、表table、索引index、视图view、存储过程procedure、触发器trigger。</p></blockquote></li></ul></li></ol><h2 id="SQL语言语法"><a href="#SQL语言语法" class="headerlink" title="SQL语言语法"></a>SQL语言语法</h2><ol><li>SQL语句不区分大小写，关键字建议大写。</li><li>SQL语句可以单行或多行书写，以分号结尾。</li></ol>]]></content>
+    
+    
+    <summary type="html">编写SQL语句</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>java基础</title>
     <link href="https://lujuny.github.io/posts/b8b0eacd.html"/>
     <id>https://lujuny.github.io/posts/b8b0eacd.html</id>
     <published>2024-02-14T06:39:04.461Z</published>
-    <updated>2024-02-14T11:17:30.367Z</updated>
+    <updated>2024-02-15T05:51:40.891Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/lujuny/picodemo/main/img/325_ROG-Prism.jpg"></p>]]></content>
     
     
     <summary type="html">关于java的基础知识</summary>
