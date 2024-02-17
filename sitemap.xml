@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lujuny.github.io/posts/c6fb831a.html</loc>
+    <loc>https://lujuny.github.io/posts/a3f76817.html</loc>
     
     <lastmod>2024-02-17</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://lujuny.github.io/posts/0.html</loc>
+    <loc>https://lujuny.github.io/posts/c6fb831a.html</loc>
     
     <lastmod>2024-02-17</lastmod>
     
@@ -23,24 +23,6 @@
     <loc>https://lujuny.github.io/posts/b8b0eacd.html</loc>
     
     <lastmod>2024-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lujuny.github.io/posts/c6fb831a.html</loc>
-    
-    <lastmod>2024-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lujuny.github.io/posts/3c47b44b.html</loc>
-    
-    <lastmod>2024-02-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -82,15 +64,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://lujuny.github.io/posts/a3f76817.html</loc>
-    
-    <lastmod>2024-02-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://lujuny.github.io/</loc>
@@ -101,47 +74,33 @@
 
   
   <url>
-    <loc>https://lujuny.github.io/tags/hello/</loc>
-    <lastmod>2024-02-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lujuny.github.io/tags/hexo/</loc>
-    <lastmod>2024-02-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lujuny.github.io/tags/Hello/</loc>
-    <lastmod>2024-02-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lujuny.github.io/tags/SQL/</loc>
     <lastmod>2024-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://lujuny.github.io/tags/c/</loc>
+    <lastmod>2024-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lujuny.github.io/tags/STL/</loc>
+    <lastmod>2024-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lujuny.github.io/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/</loc>
+    <lastmod>2024-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
-  
-  <url>
-    <loc>https://lujuny.github.io/categories/cat1/</loc>
-    <lastmod>2024-02-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lujuny.github.io/categories/cat1/cat2/</loc>
-    <lastmod>2024-02-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 </urlset>
